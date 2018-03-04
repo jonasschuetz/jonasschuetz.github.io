@@ -20,14 +20,6 @@ th, td{
     box-sizing: border-box;
 }
 
-.main {
-    float: left;
-    width: 100%;
-    padding-top: 10px;
-    padding-left: 20%;
-    padding-right: 20%;
-    padding-bottom: 10px;
-}
 
 
 code {
@@ -35,3 +27,4 @@ code {
     color: whitesmoke;
     border-radius: 5px;
 }
+

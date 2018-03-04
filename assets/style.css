@@ -2,18 +2,7 @@
 
 
 table, th, td {
-   background: coral;
-    border-radius: 5px;
-    border-collapse: collapse;
-    border: 1px solid whitesmoke;
-}
-
-th, td{
-    border-top: none;
-    height: 20px;
-    text-align: center;
-    padding: 10px;
-    color: whitesmoke;
+    border: 1px solid coral;
 }
 
 * {
@@ -22,9 +11,12 @@ th, td{
 
 
 
+<<<<<<< HEAD
 code {
     background: coral;
     color: whitesmoke;
     border-radius: 5px;
 }
 
+=======
+>>>>>>> parent of 9214406... made several changes

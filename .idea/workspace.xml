@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bde227fb-26ff-43ed-b40d-487826a54d78" name="Default" comment="">
+    <list default="true" id="bde227fb-26ff-43ed-b40d-487826a54d78" name="Default" comment="Commited again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Storybook.html" afterPath="$PROJECT_DIR$/Storybook.html" />
     </list>
@@ -292,7 +292,7 @@
       <workItem from="1520179138783" duration="126000" />
       <workItem from="1520180897018" duration="506000" />
       <workItem from="1520190184641" duration="45000" />
-      <workItem from="1520190255330" duration="69000" />
+      <workItem from="1520190255330" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1519650774015</created>
@@ -322,11 +322,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520190318142</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commited again">
+      <created>1520190327016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520190327016</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6048000" />
+    <option name="totallyTimeSpent" value="6070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />

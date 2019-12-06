@@ -42,5 +42,15 @@ p {
 
 .logo {
     top: 10%;
-    margin: 8px 0;
+    left: 50%;
+    display: flex;
+    align-items: center
+}
+
+img.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    margin-top: 10px;
 }

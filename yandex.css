@@ -1,0 +1,46 @@
+input[type="text"] {
+    position: absolute;
+    height: 35px;
+    top: 10%;
+    width: 70%;
+    left: 10%;
+    border: 2px solid #fc0;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    position: absolute;
+    height: 35px;
+    top: 10%;
+    left: 80%;
+    font-size: 16px;
+    background-color: #fc0;
+    border: none;
+    margin: 8px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body {
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+p {
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.logo {
+    top: 10%;
+    margin: 8px 0;
+}
